@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217662547856",
+    "firebase_url": "https://moviedika.firebaseio.com",
+    "project_id": "moviedika",
+    "storage_bucket": "moviedika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217662547856:android:421bc7362fe3462fd0b515",
+        "android_client_info": {
+          "package_name": "com.fullhdmovies2020.series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217662547856-nocs9ll6dicq78p1vjokorck0tm56sap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsS1WwKMF4EPNj37IcGgDDq3ktdUvUiJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217662547856-nocs9ll6dicq78p1vjokorck0tm56sap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
